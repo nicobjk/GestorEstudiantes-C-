@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudiantes", "Estudiantes\Estudiantes.csproj", "{160E119A-2612-4A21-86E1-586A44B62F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{F116C32A-1339-4FDC-8B1F-777A2328DD92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{3994B829-1DDE-4C4C-B14B-69C7DD8434A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{160E119A-2612-4A21-86E1-586A44B62F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160E119A-2612-4A21-86E1-586A44B62F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160E119A-2612-4A21-86E1-586A44B62F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160E119A-2612-4A21-86E1-586A44B62F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F116C32A-1339-4FDC-8B1F-777A2328DD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F116C32A-1339-4FDC-8B1F-777A2328DD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F116C32A-1339-4FDC-8B1F-777A2328DD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F116C32A-1339-4FDC-8B1F-777A2328DD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3994B829-1DDE-4C4C-B14B-69C7DD8434A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3994B829-1DDE-4C4C-B14B-69C7DD8434A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3994B829-1DDE-4C4C-B14B-69C7DD8434A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3994B829-1DDE-4C4C-B14B-69C7DD8434A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3163970E-8987-4AA9-A39B-6083D585CB70}
+	EndGlobalSection
+EndGlobal
